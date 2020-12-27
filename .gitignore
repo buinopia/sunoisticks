@@ -3,5 +3,4 @@ node_modules/
 styles/
 license.txt
 package-lock.json
-package.json
 gulpfile.js
